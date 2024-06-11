@@ -63,8 +63,8 @@ jobs:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
-      - name  Fix permissions
-      run: |
+      - name:  Fix permissions
+        run: |
             chmod a+x bin/*
             git commit -am "add execute permission to bin/deploy"
       - name: Checkout 🛎️
