@@ -15,6 +15,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
+	gem 'mini_racer'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
 
