@@ -2,25 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gabriel de Oliveira Pontes
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22 May 2000
     - name: Languages
-      value: English, German
+      value: Portuguese, English, Japanese, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's  Degree in Translation Studies
+      institution: Federal University of Uberlândia, Uberlândia, Brazil
+      year: 2020 - 2023
       description:
-        - Description 1.
+        - Linguistics, Translation, CAT Tools, Literary Translation, Audiovisual Translation, etc.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900

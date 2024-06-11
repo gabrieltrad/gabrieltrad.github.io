@@ -1,48 +1,27 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gabriel de Oliveira Pontes",
+    "label": "Translator",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "gabrieltrad@outlook.com.br",
+    "phone": "(55) 34 99720-0924",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "State of Minas Gerais"
     }
-  ],
+  },
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Wikipedia ",
+      "position": "Article Translator",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2017",
+      "endDate": "PRESENT",
+      "summary": "I have translated articles, mostly of aviation, for the Portuguese Wikipedia (Wikipédia Lusófona)",
     }
   ],
   "education": [
@@ -56,15 +35,6 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
