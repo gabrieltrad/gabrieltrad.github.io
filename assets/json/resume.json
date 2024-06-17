@@ -1,170 +1,117 @@
 {
+  "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
   "basics": {
     "name": "Gabriel de Oliveira Pontes",
-    "label": "Translator",
+    "label": "Tradutor",
     "image": "",
-    "email": "gabrieltrad@outlook.com.br",
-    "phone": "(55) 34 99720-0924",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gabrielpontes.op@gmail.com",
+    "phone": "55 34997200924",
+    "url": "https://gabrieltrad.github.io",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
       "city": "Uberlândia",
       "countryCode": "BR",
       "region": "State of Minas Gerais"
-    }
+    },
+    "Timezone": "GMT +3"
   },
+  "work": [
+    {
+      "name": "Translator",
+      "description": "",
+      "position": "Freelance",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+	{
+      "name": "Babel Traduções Translation Agency",
+      "description": "Translation Agency",
+      "position": "Intern",
+      "url": "http://www.babeltraduz.com.br/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Babel is a UFU junior company that translates and reviews documents of the university and other institutions.",
+      "highlights": []
+    }
+  ],
   "volunteer": [
     {
-      "organization": "Wikipedia ",
+      "organization": "Portuguese Wikipedia",
       "position": "Article Translator",
-      "url": "https://example.com",
+      "url": "http://pt.wikipedia.org/",
       "startDate": "2017",
-      "endDate": "PRESENT",
-      "summary": "I have translated articles, mostly of aviation, for the Portuguese Wikipedia (Wikipédia Lusófona)",
+      "endDate": "2020",
+      "summary": "Translation of articles, mostly from aviation, for the Portuguese Wikipedia (Wikipédia Lusófona)"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "Federal University of Uberlândia (UFU)",
+      "url": "www.ufu.br",
+      "area": "Translation Studies",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2020",
+      "endDate": "2023"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Translation",      
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SDL Trados",
+        "Subtitling",
+        "Wordfast",
+        "Comic Translation",
+        "Game Localization",
+        "Software Localization",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "name": "Video Editing",
+      "keywords": [
+        "DaVinci Resolve",
+        "Adobe Premiere Pro",
+        "SFX",
+        "Audio Treatment"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Lua",
+        "MongoDB"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Portuguese",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Japanese",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": [],
+  "sideProjects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+    "version": "v2.0.0",
+    "lastModified": "2024-06-11T20:06:07-03:00Z"
+  }
 }

@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Gabriel
-middle_name: O.
+middle_name:
 last_name: Pontes
 email: gabrielpontes.op@gmail.com
 description: > 
@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: game localization, translator, game translator, english translator, portuguese, trados, memoQ
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://gabrieltrad.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  I reply in 1 business days (GMT+3)
+  I usually reply in 1 business day.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

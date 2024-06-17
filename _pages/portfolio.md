@@ -2,10 +2,10 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-description: A growing collection of your cool projects.
+description: A collection of my works. Because of NDA, I can`t show most of the works I`ve worked, so most of them were made during my graduation.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [college works]
 horizontal: false
 ---
 
