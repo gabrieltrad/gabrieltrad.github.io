@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Gabriel de Oliveira Pontes
-    - name: Date of Birth
-      value: 22 May 2000
     - name: Languages
       value: Portuguese, English, Japanese, German
 
@@ -15,14 +13,9 @@
       institution: Federal University of Uberlândia, Uberlândia, Brazil
       year: 2020 - 2023
       description:
-        - Linguistics, Translation, CAT Tools, Literary Translation, Audiovisual Translation, etc.
-        - Description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table

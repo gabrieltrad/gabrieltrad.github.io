@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
-description: A collection of my works. Because of NDA, I can`t show most of the works I`ve worked, so most of them were made during my graduation.
+title: Projects
+permalink: /Projects/
+description: A collection of my works. Because of NDA, I can`t show most of the works I have worked professionally.
 nav: true
 nav_order: 3
 display_categories: [college works]
