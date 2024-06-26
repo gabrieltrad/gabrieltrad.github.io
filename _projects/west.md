@@ -2,7 +2,7 @@
 layout: page
 title: West of Loathing
 description: Sample of the localization of the game West of Loathing, a Western RPG developed by Asymetric Software, from English to Brazilian Portuguese.
-img: assets/img/menu_traduzido.png
+img: assets/img/west_menu.png
 importance: 1
 category: college works
 related_publications: true
@@ -15,7 +15,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Localization of the game West of Loathing. Here, the player interacts with Smee at the Manifest Destiny Railroad mission.
+    Localization of the game West of Loathing. Here, the player interacts with Smee at the Manifest Destiny Railroad mission.	
 </div>
 West of Loathing is a 2017 Western RPG game created by Zack Johnson. The game is centered around the American Frontier, with elements of comedy. The player can choose between three classes: 
 <div class="row">
