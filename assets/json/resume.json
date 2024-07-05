@@ -17,22 +17,28 @@
   "work": [
     {
       "name": "Translator",
-      "description": "",
       "position": "Freelance",
       "url": "",
       "startDate": "2020",
       "endDate": "",
       "summary": "",
       "highlights": []
-    },
+	},
+    {
+	  "name":  "WeLocalize",
+	  "position": "AI Data Evaluator",
+	  "url":"",
+	  "startDate": "2024"
+	 
+	 
+	},
 	{
       "name": "Babel Traduções Translation Agency",
-      "description": "Translation Agency",
       "position": "Intern",
       "url": "http://www.babeltraduz.com.br/",
       "startDate": "2023",
       "endDate": "2024",
-      "summary": "Babel is a UFU junior company that translates and reviews documents of the university and other institutions.",
+      "summary": "Babel is an UFU junior company that translates and reviews documents of the university and other institutions.",
       "highlights": []
     }
   ],
